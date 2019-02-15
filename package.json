@@ -1,0 +1,21 @@
+{
+  "name": "webscrap",
+  "version": "1.0.0",
+  "description": "A web scrapper",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rikadewi/web_scrapper.git"
+  },
+  "main": "solution.js",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "request": "^2.34",
+    "request-promise": "^4.2.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
